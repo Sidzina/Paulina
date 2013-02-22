@@ -1,3 +1,3 @@
 Paulina
 =======
-Wlazl KOtek na plotek
+Wlazl Kotek na plotek
