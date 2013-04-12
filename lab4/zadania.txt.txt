@@ -13,10 +13,12 @@ Polecenia do GITA
 
 GIT LOG-podgl¹d wszystkich zatwierdzonych zmian
 GIT DIFF-podgl¹d wprowadzonych w repozytorium zmian
-GIT DiFF--staget-podgl¹d wprowadzonych zmian plików które s¹ juz w przechowalni
+GIT DIFF--staget-podgl¹d wprowadzonych zmian plików które s¹ juz w przechowalni
 GIT STATUS-podgl¹d zmian wprowadzonych w danym pliku
 GIT RM-usuwanie plików z repozytorium
 GIT ADD-dodawanie plików do przechowalni
 GIT RESET-usuwanie plików z przechowalni
 GIT STASH-przenoszenie plików znajduj¹cych siê w przechowalni do innej ga³êzi
 GIT BRANCH-usuwanie ga³êzi
+
+modyfikacja
